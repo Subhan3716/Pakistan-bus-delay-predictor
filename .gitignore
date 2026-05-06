@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+PROB&STATS_SEMESTER_PROJECT.zip
