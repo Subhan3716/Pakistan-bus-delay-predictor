@@ -1,29 +1,4 @@
-# Python
 .venv/
-venv/
-env/
 __pycache__/
-*.py[cod]
-*.pyd
-*.pyo
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-
-# Notebook and Jupyter
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-
-# Streamlit
-.streamlit/secrets.toml
-
-# Build artifacts and packaged files
-dist/
-build/
-*.egg-info/
+*.pyc
 PROB&STATS_SEMESTER_PROJECT.zip
-*.log
-
-# OS junk
-Thumbs.db
-.DS_Store
